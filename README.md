@@ -1,4 +1,6 @@
-# Quantum-DNA-The-Parallel-Universe-Hypothesis
+# Quantum-DNA-The-Parallel-Universe-Hypothesis 
+
+Zendo DOI: 10.5281/zenodo.14974522
 
 🧬 Quantum DNA & The Parallel Universe Hypothesis
 How AI and Quantum Mechanics Reveal DNA's Multi-Dimensional Nature
