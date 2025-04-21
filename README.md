@@ -68,4 +68,4 @@ Outlined in Section 4.1 of the paper, includes:
 This project is open to collaboration with quantum physicists, AI researchers, and systems biologists.  
 Interested? Submit a pull request or open an issue.
 
-📩 **Contact:** ecssignalling@gmail.com
+📩 Contact: TeamMohamed@proton.me 
